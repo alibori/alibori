@@ -4,10 +4,6 @@
    <h2 align="center">Jr. PHP Dev</h2>
 </p>
 
-<div align="left" inline>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=alibori&label=Profile%20views&color=0e75b6&style=flat" alt="alibori" /></span>
-</div>
-
 <p align="center">I'm a :heart: about <strong>Web Development</strong> and it's environment!</p>
 <p align="center">Always thinking and looking to learn, practice, collaborate... And, of course, ENJOY! :ok_man:</p>
 <p>&nbsp;</p>
